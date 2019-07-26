@@ -12,3 +12,8 @@ I'm going to name some features that are built on this code:</br>
 (a) real player vs. real player.</br>
 (b) real player vs. bot (the bot isn't very smart. It just randomly chooses a valid move).</br>
 (3) The game is automatically saved in text files (.txt). You can always finish a game later (the program is capable of reading a saved game from text files).</br>
+
+*** Snapshots:
+![start_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapchots/start.bmp)
+![mainMenu_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapchots/main_menu.bmp)
+![matchOverview_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapchots/match_view.bmp)
