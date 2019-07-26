@@ -16,7 +16,7 @@ void REALPLAYER::askSourcePosition(int* x, int* y)
 {
 	string coordinate;
 
-	cout << ">Insert the coordinate of the piece you want to move (in the form, a2): ";
+	cout << ">Insert the coordinate of the piece you want to move (in the same format as a2): ";
 	cin >> coordinate;
 
 
@@ -28,7 +28,7 @@ void REALPLAYER::askDestinationPosition(int* x, int* y)
 {
 	string coordenada;
 
-	cout << ">Insert the coordinate to where you want to move the piece (in the form, a2): ";
+	cout << ">Insert the coordinate to where you want to move the piece (in the format as a2): ";
 	cin >> coordenada;
 
 	translateToInt(coordenada, &(*x), &(*y));
