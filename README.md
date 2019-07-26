@@ -14,6 +14,9 @@ I'm going to name some features that are built on this code:</br>
 (3) The game is automatically saved in text files (.txt). You can always finish a game later (the program is capable of reading a saved game from text files).</br>
 
 *** Snapshots:
-![start_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapchots/start.bmp)
-![mainMenu_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapchots/main_menu.bmp)
-![matchOverview_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapchots/match_view.bmp)
+</br>
+![start_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapshots/start.bmp)
+</br>
+![mainMenu_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapshots/main_menu.bmp)
+</br>
+![matchOverview_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapshots/match_view.bmp)
