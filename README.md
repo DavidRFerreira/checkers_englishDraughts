@@ -19,8 +19,8 @@ I'm going to name some features that are built on this code:
 
 ## Snapshots
 </br>
-![start_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapshots/start.bmp)
+![start_snapshot](https://github.com/DavidRFerreira/checkers_englishDraughts/blob/master/snapshots/start.bmp)
 </br>
-![mainMenu_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapshots/main_menu.bmp)
+![mainMenu_snapshot](https://github.com/DavidRFerreira/checkers_englishDraughts/blob/master/snapshots/main_menu.bmp)
 </br>
-![matchOverview_snapshot](https://raw.githubusercontent.com/DavidRFerreira/checkers_englishDraughts/master/snapshots/match_view.bmp)
+![matchOverview_snapshot](https://github.com/DavidRFerreira/checkers_englishDraughts/blob/master/snapshots/match_view.bmp)
