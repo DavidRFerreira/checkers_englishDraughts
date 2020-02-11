@@ -13,9 +13,9 @@ The code was written originally in portuguese, but since then I translated it to
 I'm going to name some features that are built on this code:
 1. The game implemented follows the american/english rules. All the rules and game mechanics are fully supported, such as crowning and forced capture. Invalid input will be rejected and player will be requested to input again.
 2. You can choose to play in two different modes:
-  a. real player vs. real player.
-  b. real player vs. bot (the bot isn't very smart. It just randomly chooses a valid move).
-  c. The game is automatically saved in text files (.txt). You can always finish a game later (the program is capable of reading a saved game from text files).
+  - real player vs. real player.
+  - real player vs. bot (the bot isn't very smart. It just randomly chooses a valid move).
+  - The game is automatically saved in text files (.txt). You can always finish a game later (the program is capable of reading a saved game from text files).
 
 ## Snapshots
 </br>
